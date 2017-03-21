@@ -1,0 +1,39 @@
+/* safe area */
+.safe-area{
+	height:100vh;
+	background-color:#fcdb00;
+}
+.header {
+	height:60px;
+	padding-top:10px;
+}
+.nav-link{
+	color:black;
+	font-weight:bold;
+}
+.nav-link:hover{
+	text-decoration:underline;
+	color:black;
+}
+
+/* GLOBAL texts */
+
+.headline{
+	font-size:2rem;
+}
+.description{
+	font-size:1.3rem;
+}
+.text{
+	font-size:.85rem;
+	color:#898989;
+}
+/*CAROUSEL */
+.carousel-inner{
+	margin-top:3rem;
+	height:650px;
+}
+.wapper-carousel{
+	margin-top:4rem;
+	padding-right:6rem;
+}
